@@ -28,7 +28,7 @@ function ControlPanel({eventValue,mapStyle}) {
 
       <div className="source-link">
         <a
-          href="https://github.com/visgl/react-map-gl/tree/7.1-release/examples/controls"
+          href="https://github.com/solo11/gdelt-project"
           target="_new"
         >
           View Code ↗
